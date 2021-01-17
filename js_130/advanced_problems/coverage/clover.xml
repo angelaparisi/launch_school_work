@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1608487722818" clover="3.2.0">
+  <project timestamp="1608487722818" name="All files">
+    <metrics statements="22" coveredstatements="22" conditionals="25" coveredconditionals="24" methods="7" coveredmethods="7" elements="54" coveredelements="53" complexity="0" loc="22" ncloc="22" packages="1" files="1" classes="1"/>
+    <file name="triangle.js" path="/home/ec2-user/environment/advanced_problems/triangle.js">
+      <metrics statements="22" coveredstatements="22" conditionals="25" coveredconditionals="24" methods="7" coveredmethods="7"/>
+      <line num="3" count="15" type="stmt"/>
+      <line num="4" count="15" type="stmt"/>
+      <line num="5" count="15" type="stmt"/>
+      <line num="7" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="9" count="5" type="stmt"/>
+      <line num="12" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="14" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="4" type="stmt"/>
+      <line num="16" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="17" count="4" type="stmt"/>
+      <line num="21" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="5" type="stmt"/>
+      <line num="24" count="10" type="stmt"/>
+      <line num="28" count="43" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="13" type="cond" truecount="5" falsecount="0"/>
+      <line num="30" count="10" type="stmt"/>
+      <line num="33" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="36" count="8" type="cond" truecount="3" falsecount="0"/>
+      <line num="39" count="4" type="cond" truecount="3" falsecount="0"/>
+      <line num="44" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
